@@ -1,0 +1,69 @@
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/home
+IBM HR Analytics Employee Attrition & Performance
+Predict attrition of your valuable employees
+
+			What can we do with this data set
+**choose all factors and do subset using CIA, lasso 
+**look into Nural Networks
+
+Factors:
+job envirment 
+Job sataificstion 
+work life balance
+age 
+job level
+Education
+
+
+
+
+The work is at the direction of Dr. Rowe. In the nomination he suggested you would be using data supplied by IBM to 
+reveal the factors behind employee attrition and the quality of employee performance at work. The work is to be 
+done during the spring semester.
+
+insurance rate is given based on area zip code
+working on the datset that benefits their employee preformance
+atteriation how many ppl left the company
+catogory data had to be conforited to numerical (index values) regrssion
+
+
+Data Overview
+
+Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of
+distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This 
+is a fictional data set created by IBM data scientists.
+
+Education 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
+
+EnvironmentSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+JobInvolvement 
+1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+JobSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+PerformanceRating 
+1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
+
+RelationshipSatisfaction 
+1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+WorkLifeBalance 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
+
+Kaggle Discussion: 
+
+Daily rate = the amount of money you are paid per day
+Percent salary hike = the % change in salary from 2016 vs 2015. 
+Relationship satisfaction = how happy is the employee with her colleagues.
+Stock option level = how much company stocks you own.
+
+
+
+
+Normality check for variables
+The reputation of a company plays an important factor plays a part in:
+1)	Worker’s relationship with management
+2)	It effects employee’s confidence in the workplace and workload
+3)	Relations with customers. Training new employees to satisfy customer’s requires time. If employees are 
+	changed often customers take their business elsewhere
+4)	Hiring, training, and lost of production cost employer 150% departure employees
